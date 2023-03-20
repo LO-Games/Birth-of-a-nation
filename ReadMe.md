@@ -1,4 +1,4 @@
-Birth of a Nation / The Promised Land
+<h1>Birth of a Nation / The Promised Land</h1>
 Birth of a Nation / The Promised Land is an educational game that explores the events surrounding the establishment of the State of Israel or the War of Liberation. In this game, the player can choose to play as either the Jewish or the Arab side during the period of the state's formation and learn about important events that occurred during this time.
 
 Getting Started
