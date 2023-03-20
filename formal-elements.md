@@ -1,8 +1,8 @@
 <div dir='rtl' lang='he'>
 
-# Birth of a nation
+# לידתה של אומה
 
-**Choose a side and learn about the birth of the israeli nation.**
+**הצטרפו למאבק ולמדו אודות לידתה של מדינת ישראל**
 
 ## מהות המשחק
 
