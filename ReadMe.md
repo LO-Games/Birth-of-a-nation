@@ -13,8 +13,7 @@
 
 <p>Additionally, strategic elements are included in the game, such as resource management, troop deployment, and tactical decision-making. These elements help players to understand the complexity of the conflict and the strategic choices made by both sides.</p>
 
-<p>Formal elements</p>
-*Here you can find the formal elements of the game [formal_elements](formal-elements.md)*
+### Formal elements
 *Here you can find the formal elements of the game [formal_elements](formal-elements.md)*
 ## Educational Content
 <p>The game includes educational content such as historical facts, photos, and videos related to the conflict and its historical context. This helps players to understand the significance of the conflict and its impact on the region.</p>
