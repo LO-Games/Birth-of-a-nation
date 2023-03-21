@@ -14,7 +14,7 @@
 <p>Additionally, strategic elements are included in the game, such as resource management, troop deployment, and tactical decision-making. These elements help players to understand the complexity of the conflict and the strategic choices made by both sides.</p>
 
 <p>Formal elements</p>
-here you can find the formal elements of the game <a></a>
+here you can find the formal elements of the game <a>https://github.com/LO-Games/Birth-of-a-nation/blob/main/formal-elements.md</a>
 <h2>Educational Content</h2>
 <p>The game includes educational content such as historical facts, photos, and videos related to the conflict and its historical context. This helps players to understand the significance of the conflict and its impact on the region.</p>
 
