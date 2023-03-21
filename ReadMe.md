@@ -15,6 +15,7 @@
 
 <p>Formal elements</p>
 *Here you can find the formal elements of the game [formal_elements](formal-elements.md)*
+*Here you can find the formal elements of the game [formal_elements](formal-elements.md)*
 <h2>Educational Content</h2>
 <p>The game includes educational content such as historical facts, photos, and videos related to the conflict and its historical context. This helps players to understand the significance of the conflict and its impact on the region.</p>
 
