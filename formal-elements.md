@@ -182,6 +182,7 @@
  כל מפה במשחק מתארת מקום אחר בעולם ומציעה אזורי צל שונים עם תנאים שונים לצידי המקרה להצליח במשימתם. 
 
 <a href="https://en.wikipedia.org/wiki/Call_of_Duty_2">בקרו בעמוד המשחק בויקיפדיה.</a>
+ 
  ![image](https://user-images.githubusercontent.com/74235390/226596834-397ea62a-82a0-4ee6-85be-3e9329e7bc1f.png)
 
 
